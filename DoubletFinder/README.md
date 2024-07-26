@@ -1,0 +1,2 @@
+DoubletFinder is an R package designed to identify and remove doublets from single-cell RNA sequencing (scRNA-seq) data. Doublets are artifacts that occur when two cells are encapsulated in the same droplet during the sequencing process, leading to mixed gene expression profiles. These mixed profiles can interfere with downstream analysis, making it crucial to identify and remove doublets for accurate interpretation of scRNA-seq data.
+
