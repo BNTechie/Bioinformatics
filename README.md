@@ -1,4 +1,6 @@
-# Tools for bioinformatics analysis
+# Self learning resources
+
+## Tools for bioinformatics analysis
 
 1. Gene ID conversion tool: https://www.syngoportal.org/convert
 2. Connectivity Map analysis tool: https://clue.io/query
